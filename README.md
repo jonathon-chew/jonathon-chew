@@ -1,8 +1,8 @@
 -- 👋 Hi, I’m @jonathon-chew
 
--- 👀 I’m interested in automation                                                              
+-- 👀 I’m interested in Automation, creating tools to improve processes
 
--- 🌱 I’m currently learning Python and VBA
+-- 🌱 I’m currently learning Python, Go and Powershell
 
 -- 💞️ I’m looking to collaborate on ...
 
