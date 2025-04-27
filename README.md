@@ -4,7 +4,7 @@
 
 -- 🌱 I’m currently learning Python, Go and Powershell
 
--- 💞️ I’m looking to collaborate on ...
+-- 💞️ I’m looking to collaborate on open source back end tools and scripts.
 
 <!---
 -hunteradder626/hunteradder626 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
