@@ -1,3 +1,7 @@
+<p align="center">
+<img width="400" src="docs/images/Cozy_Go_Image.png" alt="Developer" title="Developer" />
+</p>
+
 -- 👋 Hi, I’m @jonathon-chew
 
 -- 👀 I’m interested in Automation, creating tools to improve processes
