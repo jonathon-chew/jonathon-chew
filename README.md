@@ -32,9 +32,8 @@ __________+______++____+__+++++ December
 __+++____++_+++_                January
 ```
 
-Error reading commits from Go/Learning/Boot_Dev/Asteroids exit status 128
-[0;32mTotal Count: 764
-[0m_______________                 January  
+Total Count: 764
+_______________                 January  
 
 
 ____________________________    February  
