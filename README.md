@@ -14,6 +14,7 @@
 -hunteradder626/hunteradder626 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -You can click the Preview link to take a look at your changes.
 ---->
+```bash
 Total Count: 627
 _______________                 January
 ____________________________    February
@@ -28,3 +29,4 @@ _+++______+++______+_+++_+++++_ October
 +_+____________++______+_+____  November
 __________+______++____+__+++++ December
 __+++____++_+++_                January
+```
