@@ -15,6 +15,7 @@
 -You can click the Preview link to take a look at your changes.
 ---->
 ```bash
+Git Commit Calendar - not just public github repos
 Total Count: 627
 _______________                 January
 ____________________________    February
