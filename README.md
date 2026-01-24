@@ -14,10 +14,11 @@
 -hunteradder626/hunteradder626 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -You can click the Preview link to take a look at your changes.
 ---->
+
 ```bash
-Git Commit Calendar - not just public github repos
-Total Count: 627
-_______________                 January
+-Git Commit Calendar - not just public github repos
+Total Count: 707
+_______                         January
 ____________________________    February
 _____________________________++ March
 +++__+___________+_+++___+++++  April
@@ -29,5 +30,5 @@ ______+_++___+______+______+++  September
 _+++______+++______+_+++_+++++_ October
 +_+____________++______+_+____  November
 __________+______++____+__+++++ December
-__+++____++_+++_                January
+__+++____++_++++++++++++        January
 ```
