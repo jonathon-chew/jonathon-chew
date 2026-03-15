@@ -47,7 +47,8 @@ A simplified `bat`-style file viewer in Go that pretty-prints files with syntax 
 ## Current Focus
 
 - building and refining Go tooling
-- exploring backend and distributed systems ideas
+- exploring backend infrastructure and distributed systems ideas
+- turning experimental projects into cleaner public repos
 - improving the quality and usability of my public repositories
 - writing software that solves concrete workflow problems
 
